@@ -1,1 +1,2 @@
 # ROBOUIT
+ROBOUIT is an interactive maze-solving game where an intelligent robot learns to navigate through increasingly complex mazes using the A* pathfinding algorithm. Players can create custom mazes, train their robot, and watch it evolve as it gains experience solving various challenges.
