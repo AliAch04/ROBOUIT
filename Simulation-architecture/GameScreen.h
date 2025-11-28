@@ -1,6 +1,6 @@
 #pragma once
 #include <SFML/Graphics.hpp>
-#include "../Core/GameEngine.h"
+#include "GameEngine.h"
 #include "MazeRenderer.h"
 #include "IGameObserver.h"
 
